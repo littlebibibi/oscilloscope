@@ -1,0 +1,69 @@
+# Compile of ddr_write.v was successful.
+# Compile of tb_ddr_wirite.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of ddr_write.v was successful.
+# Compile of tb_ddr_wirite.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of ddr_write.v was successful.
+# Compile of tb_ddr_wirite.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_ddr_write
+# vsim work.tb_ddr_write 
+# Start time: 00:26:22 on Nov 24,2025
+# Loading work.tb_ddr_write
+# Loading work.ddr_write
+add wave -position insertpoint  \
+sim:/tb_ddr_write/ADDR_WIDTH \
+sim:/tb_ddr_write/DATA_WIDTH \
+sim:/tb_ddr_write/clk \
+sim:/tb_ddr_write/rst \
+sim:/tb_ddr_write/run_start \
+sim:/tb_ddr_write/start_addr \
+sim:/tb_ddr_write/end_addr \
+sim:/tb_ddr_write/pre_trig_len \
+sim:/tb_ddr_write/post_trig_len \
+sim:/tb_ddr_write/trigger_in \
+sim:/tb_ddr_write/fifo_data \
+sim:/tb_ddr_write/fifo_valid \
+sim:/tb_ddr_write/fifo_rd_en \
+sim:/tb_ddr_write/app_en \
+sim:/tb_ddr_write/app_cmd \
+sim:/tb_ddr_write/app_addr \
+sim:/tb_ddr_write/app_rdy \
+sim:/tb_ddr_write/app_wdf_wren \
+sim:/tb_ddr_write/app_wdf_data \
+sim:/tb_ddr_write/app_wdf_end \
+sim:/tb_ddr_write/app_wdf_rdy \
+sim:/tb_ddr_write/capture_done \
+sim:/tb_ddr_write/trig_pos_addr
+run
+run
+# Starting Acquisition...
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Asserting Trigger...
+run
+run
+run
+run
+run
+# End time: 00:29:09 on Nov 24,2025, Elapsed time: 0:02:47
+# Errors: 0, Warnings: 10

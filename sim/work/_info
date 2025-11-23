@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/intelFPGA/20.1
+vddr_write
+Z0 !s110 1763915162
+!i10b 1
+!s100 n2BF3;Ve_BRW9:<A_TNE42
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IEJI47W03RcHC91>:@On[]1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/code/oscilloscope/sim
+w1763914882
+8D:/code/oscilloscope/rtl/ddr_write.v
+FD:/code/oscilloscope/rtl/ddr_write.v
+!i122 3
+L0 1 163
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1763915162.000000
+!s107 D:/code/oscilloscope/rtl/ddr_write.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/code/oscilloscope/rtl/ddr_write.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vtb_ddr_write
+R0
+!i10b 1
+!s100 P[[hZMieo14M<;:H8e_QK0
+R1
+I7k@T7oCV9=j6a;FhQ6c[d3
+R2
+R3
+w1763915160
+Z8 8D:/code/oscilloscope/tb/tb_ddr_wirite.v
+Z9 FD:/code/oscilloscope/tb/tb_ddr_wirite.v
+!i122 4
+Z10 L0 3 127
+R4
+r1
+!s85 0
+31
+R5
+Z11 !s107 D:/code/oscilloscope/tb/tb_ddr_wirite.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|D:/code/oscilloscope/tb/tb_ddr_wirite.v|
+!i113 1
+R6
+R7

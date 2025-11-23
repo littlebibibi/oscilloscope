@@ -1,0 +1,15 @@
+D:/code/oscilloscope/tb/tb_ddr_wirite.v {1 {vlog -work work -stats=none D:/code/oscilloscope/tb/tb_ddr_wirite.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_ddr_write
+
+Top level modules:
+	tb_ddr_write
+
+} {} {}} D:/code/oscilloscope/rtl/ddr_write.v {1 {vlog -work work -stats=none D:/code/oscilloscope/rtl/ddr_write.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ddr_write
+
+Top level modules:
+	ddr_write
+
+} {} {}}
